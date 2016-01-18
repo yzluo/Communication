@@ -1,0 +1,13 @@
+E:\804_闭环测试\3.Code\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\bin\Debug\Roni.Communication.RoniDataSocket.dll
+E:\804_闭环测试\3.Code\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\bin\Debug\Roni.Communication.RoniDataSocket.pdb
+E:\804_闭环测试\3.Code\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\bin\Debug\NationalInstruments.Net.dll
+E:\804_闭环测试\3.Code\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\bin\Debug\NationalInstruments.Net.xml
+E:\804_闭环测试\3.Code\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\obj\Debug\Roni.Communication.RoniDataSocket.dll.licenses
+E:\804_闭环测试\3.Code\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\obj\Debug\Roni.Communication.RoniDataSocket.dll
+E:\804_闭环测试\3.Code\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\obj\Debug\Roni.Communication.RoniDataSocket.pdb
+D:\804闭环\闭环软件\DisAT-V0.0.3\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\bin\Debug\Roni.Communication.RoniDataSocket.dll
+D:\804闭环\闭环软件\DisAT-V0.0.3\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\bin\Debug\Roni.Communication.RoniDataSocket.pdb
+D:\804闭环\闭环软件\DisAT-V0.0.3\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\obj\Debug\ResolveAssemblyReference.cache
+D:\804闭环\闭环软件\DisAT-V0.0.3\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\obj\Debug\Roni.Communication.RoniDataSocket.dll.licenses
+D:\804闭环\闭环软件\DisAT-V0.0.3\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\obj\Debug\Roni.Communication.RoniDataSocket.dll
+D:\804闭环\闭环软件\DisAT-V0.0.3\Roni.Communication\Roni.Communication\Roni.Communication.RoniDataSocket\obj\Debug\Roni.Communication.RoniDataSocket.pdb

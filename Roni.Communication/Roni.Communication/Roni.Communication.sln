@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roni.Communication.RoniDataSocket", "Roni.Communication.RoniDataSocket\Roni.Communication.RoniDataSocket.csproj", "{E9939B33-46FF-4747-82FC-34C809BBCA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roni.Communication.Net", "Roni.Communication.Net\Roni.Communication.Net.csproj", "{E5EA3775-37B6-4362-A76E-A3B28513B26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roni.Communication.INet", "Roni.Communication.INet\Roni.Communication.INet.csproj", "{5B79B2FA-E8D0-40EE-AC04-86AA283EFD16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9939B33-46FF-4747-82FC-34C809BBCA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9939B33-46FF-4747-82FC-34C809BBCA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9939B33-46FF-4747-82FC-34C809BBCA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9939B33-46FF-4747-82FC-34C809BBCA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5EA3775-37B6-4362-A76E-A3B28513B26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EA3775-37B6-4362-A76E-A3B28513B26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EA3775-37B6-4362-A76E-A3B28513B26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EA3775-37B6-4362-A76E-A3B28513B26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B79B2FA-E8D0-40EE-AC04-86AA283EFD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B79B2FA-E8D0-40EE-AC04-86AA283EFD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B79B2FA-E8D0-40EE-AC04-86AA283EFD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B79B2FA-E8D0-40EE-AC04-86AA283EFD16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
